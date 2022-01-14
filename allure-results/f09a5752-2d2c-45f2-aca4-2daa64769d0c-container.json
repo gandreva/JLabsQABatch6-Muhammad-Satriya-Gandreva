@@ -1,0 +1,1 @@
+{"uuid":"f09a5752-2d2c-45f2-aca4-2daa64769d0c","name":"qaautomation.tugas4.BaseWebTest.quitDriver","description":"","start":1641572840987,"stop":1641572841677,"children":["10f4c46f-4a66-4579-a63e-cc791b49d6b5"],"afters":[{"name":"quitDriver","status":"passed","stage":"finished","description":"","start":1641572840988,"stop":1641572841677}]}
