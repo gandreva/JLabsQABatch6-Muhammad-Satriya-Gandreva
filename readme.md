@@ -1,5 +1,5 @@
 # Tugas BoothCamp QA Automation JLabs Batch 6 
-Berikut repository daftar tugas 1-5 BoothCamp QA Automation JLabs Batch 6 - Muhammad Satriya Gandreva
+Berikut repository daftar tugas 1-5 & 7 BoothCamp QA Automation JLabs Batch 6 - Muhammad Satriya Gandreva
 ## Lokasi Folder Runner
 File Runner Tugas 1-5 berada dalam folder
 ~~~ bash
@@ -9,6 +9,11 @@ src/test/java
 File pages khusus Tugas 3 & 4 berada dalam folder
 ~~~ bash
 src/main/java
+~~~
+## Lokasi Tugas 7
+File Tugas 7 Berada diluar 
+~~~ bash
+Tugas7.jmx
 ~~~
 ## Daftar Package Tugas
 ~~~ python
@@ -29,9 +34,7 @@ qaautomation.tugas5
 ~~~
 ## Catatan Tugas
 Dear Mas Andro.
-
 Berikut daftar Tugas 1-5 dikumpulkan dalam satu Folder karna dibuat dalam satu Java Project, dengan beberapa
-package runner berdasarkan urutan tugas, dan terdapat dua package pages khusu tugas 3 & 4.
-
+package runner berdasarkan urutan tugas, dan terdapat dua package pages khusus tugas 3 & 4. serta Tugas 7
+disimpan diluar folder/tampilan luar
 Terimakasih
-Muhammad Satriya Gandreva 
