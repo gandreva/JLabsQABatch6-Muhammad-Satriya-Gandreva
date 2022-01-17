@@ -36,5 +36,5 @@ qaautomation.tugas5
 Dear Mas Andro.
 Berikut daftar Tugas 1-5 dikumpulkan dalam satu Folder karna dibuat dalam satu Java Project, dengan beberapa
 package runner berdasarkan urutan tugas, dan terdapat dua package pages khusus tugas 3 & 4. serta Tugas 7
-disimpan diluar folder/tampilan luar
+disimpan diluar folder/tampilan luar, serta beberapa hasil reportnya
 Terimakasih
